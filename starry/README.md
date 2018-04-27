@@ -1,8 +1,8 @@
 Simple starry (https://esolangs.org/wiki/Starry)  code-generator
 
-###Examples
+## Examples
 
-#### fibonacci
+### fibonacci
 prints fibonacci numbers.(a_1 ~ a_n, n should be given from STDIN)
 
 INPUT:
