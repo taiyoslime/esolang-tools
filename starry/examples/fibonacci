@@ -1,0 +1,18 @@
+push 0
+push 1
+getn
+label 0
+rot
+dup
+rot
+add
+dup
+putn
+push 10
+putc
+rot
+rot
+push 1
+sub
+dup
+jmp 0

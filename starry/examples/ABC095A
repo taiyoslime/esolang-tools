@@ -1,0 +1,22 @@
+# AtCoder ABC095 (https://abc095.contest.atcoder.jp/tasks/abc095_):
+push 10
+push 0
+dup
+push 7
+push 3
+label 0
+swap
+getc
+push 2
+mod
+add
+swap
+push 1
+sub
+dup
+jmp 0
+pop
+putn
+putn
+putn
+putc
